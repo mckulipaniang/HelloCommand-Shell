@@ -335,9 +335,8 @@ void execute_cmd(char *cmd) {
         return;
     }
     else if (strcmp(args[0], "ver") == 0 || strcmp(args[0], "version") == 0) {
-        printf("\nHello Command! Shell v1.0 (Termux Edition)\n");
+        printf("\nHello Command! Shell v1.0\n");
         printf("A Tribute to DOS COMMAND.COM\n");
-        printf("Compiled for Android ARM64 (API 24+)\n\n");
         return;
     }
     else if (strcmp(args[0], "cls") == 0 || strcmp(args[0], "clear") == 0) {
