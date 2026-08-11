@@ -1,6 +1,7 @@
 /*
+ * SPDX-License-Identifier: GPL-3.0-or-later
  * Copyright (C) 2026 mckulipaniang
- * SPDX-License-Identifier: GPL-3.0-only
+ * Contact: mckulipaniang mckulipaniang@163.com
  */
 
 #include <stdio.h>
