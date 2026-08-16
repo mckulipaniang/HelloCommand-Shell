@@ -69,7 +69,7 @@ void cmd_dir(char **args) {
     }
     
     if (!wide) {
-        printf("\n Volume in drive is Termux\n");
+        printf("\n Volume in drive is Android/Linux/macOS\n");
         printf(" Volume Serial Number: 1234-5678\n\n");
         printf(" Directory of %s\n\n", path);
     }
