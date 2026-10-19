@@ -13,3 +13,5 @@ This is a DOS-style shell
 This is a Unix-style shell that relies on POSIX APIs (`fork`, `execvp`, `signal`, `ioctl`, etc.). Windows does not provide these natively.
 
 My Bilibili homepage is [MinecraftKLPN\(Minecraft苦力怕娘\)](https://space.bilibili.com/3546845355706427)
+
+>  I'm too lazy to reply to this project, so I archive it and sometimes unarchive it again
